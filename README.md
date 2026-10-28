@@ -22,5 +22,7 @@
 
 ## 文件
 
-- `SKILL.md`：规范全文
-- `README.md`：本说明
+- `SKILL.md`：规范全文（中文）
+- `SKILL.en.md`：规范全文（英文）
+- `README.md`：本说明（中文）
+- `README.en.md`：本说明（英文）
